@@ -26,7 +26,7 @@ p {
 
 /*banner*/
 
-.banner {
+#banner {
   background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('images/wibs-background.jpeg');
   background-size: cover;
   background-position: center;
@@ -34,7 +34,7 @@ p {
   text-align: center;
 }
 
-.banner h1 {
+#banner h1 {
   font-size: 45px;
   text-align: center;
 }
@@ -117,13 +117,13 @@ input[type=text] {
 }
 
 
-.footer {
+#footer {
   background: #3F3BA2;
   text-align: center;
   padding: 24px 0;
 }
 
-.footer p {
+#footer p {
   color: white;
 }
 
