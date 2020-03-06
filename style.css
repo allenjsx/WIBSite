@@ -27,7 +27,7 @@ p {
 /*banner*/
 
 .banner {
-  background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('images/wibs-background.jpg');
+  background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('images/wibs-background.jpeg');
   background-size: cover;
   background-position: center;
   padding: 150px;
@@ -54,7 +54,7 @@ input[type=submit] {
 }
 
 input[type=submit]:hover {
-  background-color: #0D1EC6;
+  background-color: #6D2FF3;
   color: white;
 }
 
